@@ -4,35 +4,43 @@ Hi, I'm @tmeechh
 About Me
 I'm a Junior Front End Developer with a passion for creating dynamic and responsive web applications. I have a solid foundation in:
 
-HTML
-CSS
-JavaScript
-React
-Redux
-Tailwind CSS
-Bootstrap
-Git & GitHub
+HTML,
+CSS,
+JavaScript,
+React,
+Redux,
+Tailwind CSS,
+Bootstrap,
+Git & GitHub.
 
 
 Additionally, I have a basic understanding of:
-TypeScript
+TypeScript,
 Next.js
 
 
 What I'm Up To
+
 🌱 Currently Learning: Improving my skills in TypeScript and Next.js to build more robust applications.
+
 💞️ Looking to Collaborate On: Real-life projects that can help me grow as a developer and contribute to impactful solutions.
+
 ⚡ Fun Fact: I love exploring new technologies and frameworks, and I'm always ready to take on new challenges.
 
+
 Experience
+
 I am currently interning at BCT Academy, where I am honing my skills and gaining practical experience in front-end development.
 
 Projects
+
 I have created several projects using the skills I have acquired. You can check them out in my repository.
 
 Interests
+
 I am very interested in:
-Working with a team on diverse projects
+
+Working with a team on diverse projects,
 Learning new programming languages and technologies
 
 Get in Touch
