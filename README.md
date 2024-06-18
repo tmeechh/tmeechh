@@ -3,7 +3,8 @@ Hi, I'm @tmeechh
 
 About Me ->
 
-I'm a Junior Front End Developer with a passion for creating dynamic and responsive web applications. I have a solid foundation in:
+
+I'm a Junior Front End Developer with a passion for creating dynamic and responsive web applications. I focus on building user-friendly interfaces, ensuring that all my projects are accessible and optimized for any screen size. I have a solid foundation in:
 
 HTML,
 CSS,
