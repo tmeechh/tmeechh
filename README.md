@@ -24,7 +24,8 @@ Git & GitHub.
 Additionally, I have a basic understanding of:
 TypeScript,
 Next.js,
-Node js
+Node js,
+Firebase
 
 
 
