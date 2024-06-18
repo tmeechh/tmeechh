@@ -5,7 +5,7 @@
 
 Hi, I'm Esan Taiwo..... @tmeechh
 
-About Me ->
+. About Me ->
 
 
 I'm a Junior Front End Developer with a passion for creating dynamic and responsive web applications. I focus on building user-friendly interfaces, ensuring that all my projects are accessible and optimized for any screen size. I have a solid foundation in:
@@ -40,21 +40,21 @@ Node js
 
 
 
-EXPERIENCE  :
+. EXPERIENCE  :
 
 I am currently interning at BCT Academy, where I am honing my skills and gaining practical experience in front-end development.
 
 
 
 
-PROJECTS :
+. PROJECTS :
 
 I have created several projects using the skills I have acquired. You can check them out in my repository.
 
 
 
 
-INTRESTS:
+. INTRESTS:
 
 I am very interested in:
 
