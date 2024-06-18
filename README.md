@@ -1,5 +1,9 @@
-Hi, I'm @tmeechh
-👋 Welcome to my GitHub profile!
+                                                               Welcome To Tmmech's Profile
+
+
+
+
+Hi, I'm Esan Taiwo..... @tmeechh
 
 About Me ->
 
@@ -24,11 +28,11 @@ Node js
 
 
 
-What I'm Up To
 
-🌱 Currently Learning: Improving my skills in TypeScript and Next.js to build more robust applications.
 
-💞️ Looking to Collaborate On: Real-life projects that can help me grow as a developer and contribute to impactful solutions.
+🌱 Currently Learning:Express , mongoDb , and Stripe , i'm  Improving my skills in TypeScript, Next.js, and Node js to build more robust applications.
+
+💞️ Looking to Collaborate On: Real-life projects that can help me grow as a developer and contribute to impactful solutions. javascript , Typescript , Next js , React , Redux, mongoDb , Express and Node js
 
 ⚡ Fun Fact: I love exploring new technologies and frameworks, and I'm always ready to take on new challenges.
 
@@ -55,11 +59,11 @@ INTRESTS:
 I am very interested in:
 
 Working with a team on diverse projects,
-Learning new programming languages and technologies
+Learning new programming languages and technologies.
 
 
 
-Get in Touch
+📫   Get in Touch
 You can reach me through my GitHub profile. I am always open to discussions about potential projects, collaborations, or any interesting opportunities!
 
 
