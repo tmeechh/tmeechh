@@ -11,6 +11,7 @@ React,
 Redux,
 Tailwind CSS,
 Bootstrap,
+SASS,
 Git & GitHub.
 
 
