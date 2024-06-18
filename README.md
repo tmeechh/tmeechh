@@ -1,7 +1,8 @@
 Hi, I'm @tmeechh
 👋 Welcome to my GitHub profile!
 
-About Me
+About Me ->
+
 I'm a Junior Front End Developer with a passion for creating dynamic and responsive web applications. I have a solid foundation in:
 
 HTML,
@@ -17,7 +18,9 @@ Git & GitHub.
 
 Additionally, I have a basic understanding of:
 TypeScript,
-Next.js
+Next.js,
+Node js
+
 
 
 What I'm Up To
@@ -29,23 +32,36 @@ What I'm Up To
 ⚡ Fun Fact: I love exploring new technologies and frameworks, and I'm always ready to take on new challenges.
 
 
-Experience
+
+
+
+EXPERIENCE  :
 
 I am currently interning at BCT Academy, where I am honing my skills and gaining practical experience in front-end development.
 
-Projects
+
+
+
+PROJECTS :
 
 I have created several projects using the skills I have acquired. You can check them out in my repository.
 
-Interests
+
+
+
+INTRESTS:
 
 I am very interested in:
 
 Working with a team on diverse projects,
 Learning new programming languages and technologies
 
+
+
 Get in Touch
 You can reach me through my GitHub profile. I am always open to discussions about potential projects, collaborations, or any interesting opportunities!
+
+
 
 😄 Pronouns: He/Him
 
