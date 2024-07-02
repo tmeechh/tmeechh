@@ -7,7 +7,7 @@
 👨🏻‍💻 Tmeech
 
 
-![black](https://github.com/tmeechh/tmeechh/assets/145122266/b0247e6a-58b6-4147-bc98-02e1be913ff3)
+![black](https://github.com/tmeechh/tmeechh/assets/145122266/1f0c21aa-37a1-4123-97c7-21e8a8aa0d13)
 
 
 
