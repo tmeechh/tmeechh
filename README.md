@@ -1,14 +1,4 @@
-                                                               Welcome To Tmmech's Profile
-
-
-
-
-Hi, I'm Esan Taiwo..... @tmeechh
-
- About Me ->
-
-
-I'm a Junior Front End Developer with a passion for creating dynamic and responsive web applications. I focus on building user-friendly interfaces, ensuring that all my projects are accessible and optimized for any screen size. I have a solid foundation in:
+                                                          
 
 HTML,
 CSS,
@@ -29,40 +19,21 @@ Firebase
 
 
 
+https://github.com/tmeechh/tmeechh/assets/145122266/eb4abef3-7c7d-4f7c-b970-df488e2284f0
 
 
-🌱 Currently Learning:Express , mongoDb , and Stripe , i'm  Improving my skills in TypeScript, Next.js, and Node js to build more robust applications.
-
-💞️ Looking to Collaborate On: Real-life projects that can help me grow as a developer and contribute to impactful solutions. javascript , Typescript , Next js , React , Redux, mongoDb , Express and Node js
-
-⚡ Fun Fact: I love exploring new technologies and frameworks, and I'm always ready to take on new challenges.
+   
+                                                            Welcome To Tmmech's Profile 
 
 
+     
+👋 Hi, I’m Esan Taiwo...
 
+🌱 Currently Learning:I'm currently learning new tech skills.
 
+💞️ Looking to Collaborate On: Real-life projects that can help me grow as a developer and contribute to impactful solutions.
 
-. EXPERIENCE  :
-
-I am currently interning at BCT Academy, where I am honing my skills and gaining practical experience in front-end development.
-
-
-
-
-. PROJECTS :
-
-I have created several projects using the skills I have acquired. You can check them out in my repository.
-
-
-
-
-. INTRESTS:
-
-I am very interested in:
-
-Working with a team on diverse projects,
-Learning new programming languages and technologies.
-
-
+⚡ Fun Fact: Gaming.
 
 📫   Get in Touch
 You can reach me through my GitHub profile. I am always open to discussions about potential projects, collaborations, or any interesting opportunities!
