@@ -1,13 +1,8 @@
 
-
-
-
-
-
 👨🏻‍💻 Tmeech
 
 
-![black](https://github.com/tmeechh/tmeechh/assets/145122266/1f0c21aa-37a1-4123-97c7-21e8a8aa0d13)
+<img width="1000" alt="black" src="https://github.com/tmeechh/tmeechh/assets/145122266/a24793d7-e35b-4598-a171-338948be9a06">
 
 
 
