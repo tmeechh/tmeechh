@@ -4,6 +4,9 @@
 
 
 👨🏻‍💻 Tmeech
+
+
+
 Hi there 👋
 
 <img width="1000" alt="header_1" src="https://github.com/tmeechh/tmeechh/assets/145122266/ffc087d4-dbc4-4bbf-a793-a38f7d2001e6">
@@ -19,7 +22,7 @@ Hi there 👋
 
 
                                                             
- I'm Timi, a Web Developer eargerly willing to learn everything that has to do with making the web beautiful, interactive and functional.
+ I'm Timi, A web developer eargerly willing to learn everything that has to do with making the web beautiful, interactive and functional.
 
 
 
