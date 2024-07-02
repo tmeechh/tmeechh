@@ -11,9 +11,6 @@ Hi there 👋
 
 <img width="1000" alt="header_1" src="https://github.com/tmeechh/tmeechh/assets/145122266/ffc087d4-dbc4-4bbf-a793-a38f7d2001e6">
 
-<img   alt="header_1" src="[https://cdn.dribbble.com/userupload/13732469/file/original-63af4b771e6c5e0493dacfef3b9b37e4.png?resize=400x0](https://www.google.com/url?sa=i&url=https%3A%2F%2Fdribbble.com%2Ftags%2Fdark-icon&psig=AOvVaw0Di28_U7z0bhLmLoXGsZty&ust=1720036483272000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCLjnua-RiYcDFQAAAAAdAAAAABAE)">               
-
-
 
 
 
