@@ -11,7 +11,7 @@ Hi there 👋
 
 <img width="1000" alt="header_1" src="https://github.com/tmeechh/tmeechh/assets/145122266/ffc087d4-dbc4-4bbf-a793-a38f7d2001e6">
 
-<img  width="1000" alt="header_1" src="https://cdn.dribbble.com/userupload/13732470">                /file/original-6acde6bb2ab18438c8f23a47f6799591.png?resize=752x
+<img  width="1000" alt="header_1" src="https://cdn.dribbble.com/userupload/13732470 /file/original-6acde6bb2ab18438c8f23a47f6799591.png?resize=752x">               
 
 
 
