@@ -19,15 +19,16 @@ Firebase
 
 
 
+<img width="1000" alt="header_1" src="https://github.com/tmeechh/tmeechh/assets/145122266/ffc087d4-dbc4-4bbf-a793-a38f7d2001e6">
 
    
                                                             Welcome To Tmmech's Profile 
-https://camo.githubusercontent.com/358b769fb978d047cc69a2d219d77cbd60d1b9a12454b39ab15d1eb261f893e7/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f43686172742532306a732d4646363338343f7374796c653d666f722d7468652d6261646765266c6f676f3d6368617274646f746a73266c6f676f436f6c6f723d7768697465
+
 
      
 👋 Hi, I’m Esan Taiwo...
 
-🌱 Currently Learning:I'm currently learning new tech skills.
+🌱 Currently Learning:I'm currently learning new tech skills such as Express, mongoDb, node js, next js, stripe, cms.
 
 💞️ Looking to Collaborate On: Real-life projects that can help me grow as a developer and contribute to impactful solutions.
 
