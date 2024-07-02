@@ -3,10 +3,11 @@
 
 
 
+
 👨🏻‍💻 Tmeech
 
 
-<img width="1000" alt="header_1" src="https://github.com/tmeechh/tmeechh/assets/145122266/ffc087d4-dbc4-4bbf-a793-a38f7d2001e6">
+![black](https://github.com/tmeechh/tmeechh/assets/145122266/b0247e6a-58b6-4147-bc98-02e1be913ff3)
 
 
 
