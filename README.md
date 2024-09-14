@@ -19,7 +19,7 @@
 
 👀 I’m interested in working on Full Stack Web Development Projects, Designing Webpages and anything related to Competitive Programming.
 
-🌱 I'm currently learning new tech skills such as Express, mongoDb, node js, next js, stripe, cms.
+🌱 I'm currently learning a new tech skill : C##
 
 💞️ I'm Looking to Collaborate On Real-life projects that can help me grow as a developer and contribute to impactful solutions.
 
