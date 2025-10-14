@@ -23,9 +23,6 @@ I love turning ideas into elegant code using modern technologies like TypeScript
 If you're interested in creating something awesome or learning more about the web — I'm always happy to connect!
 
 
-
-📫You can reach out to me at esantaiwo77@gmail.com or drop a message at https://www.linkedin.com/in/taiwo-esan-22332a28b/. I am always open to discussions about potential projects, collaborations, or any interesting opportunities!
-
 😄 Pronouns: He/Him
 
 
