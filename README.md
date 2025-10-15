@@ -17,7 +17,7 @@
 
 👋 Hi, I’m Esan Taiwo... Tmeech.
 
-I'm a **Software developer/engineer** with a passion for building interactive, user-friendly, and high-performance web experiences.
+I'm a **Full-Stack & Web3 Developer** with a passion for building interactive, user-friendly, and high-performance web experiences.
 I love turning ideas into elegant code using modern technologies like TypeScript, Next.js, and Tailwind CSS.
 
 If you're interested in creating something awesome or learning more about the web — I'm always happy to connect!
@@ -90,26 +90,6 @@ If you're interested in creating something awesome or learning more about the we
 </div>
 
 ---
-
-## 📊 GitHub Stats
-
-| 📈 Stats | 🔥 Streak | 🧠 Languages |
-|---------|----------|--------------|
-| ![Taiwo's GitHub stats](https://github-readme-stats.vercel.app/api?username=tmeechh&show_icons=true&theme=radical) | [![GitHub Streak](https://streak-stats.demolab.com?user=tmeechh&theme=dark&hide_border=true&border_radius=4.5)](https://git.io/streak-stats) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tmeechh&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats) |
-
----
-
-## 👀 Profile Views
-
-![Profile Views](https://komarev.com/ghpvc/?username=tmeechh&color=blue)
-
----
-
-<!-- 
-🔭 I’m currently building: scalable full-stack apps with modern tech (Next.js, TypeScript, Bun)
-🌱 I’m currently exploring: Web3 Development
-📢 I build 
--->
 
 
 
