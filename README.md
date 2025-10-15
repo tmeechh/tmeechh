@@ -17,7 +17,7 @@
 
 👋 Hi, I’m Esan Taiwo... Tmeech.
 
-I'm a **full-stack web developer** with a passion for building interactive, user-friendly, and high-performance web experiences.
+I'm a **Software developer/engineer** with a passion for building interactive, user-friendly, and high-performance web experiences.
 I love turning ideas into elegant code using modern technologies like TypeScript, Next.js, and Tailwind CSS.
 
 If you're interested in creating something awesome or learning more about the web — I'm always happy to connect!
