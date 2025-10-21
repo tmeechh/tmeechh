@@ -76,6 +76,13 @@ If you're interested in creating something awesome or learning more about the we
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </div>
 
+### 🌐 Web3 Skills
+<div>
+  <img src="https://img.shields.io/badge/Foundry-FE7A16?style=for-the-badge&logo=foundry&logoColor=white" />
+  <img src="https://img.shields.io/badge/Solidity%20%26%20Smart%20Contracts-121D33?style=for-the-badge&logo=ethereum&logoColor=white" />
+  <img src="https://img.shields.io/badge/DeFi%20%26%20Blockchain%20Security-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white" />
+</div>
+
 ---
 
 ## 📬 Let’s Connect
